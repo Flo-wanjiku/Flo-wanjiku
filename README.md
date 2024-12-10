@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Florence Wanjiku
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python, Power BI and SQL
-- 💞️ I’m looking to collaborate on Python, Power BI and SQL projects
-- 📫 How to reach me florenswanjiku@gmail.com
+👋 Hi there! I'm a Data Analyst with 1 year of experience in the field. I specialize in transforming data into actionable insights using various tools and technologies.
+
+🔍 **Skills**:
+- **Power BI**: Creating interactive dashboards and visualizations.
+- **SQL**: Querying and managing databases to extract meaningful information.
+- **Excel**: Utilizing advanced functions and pivot tables for data analysis.
+- **Python**: Performing data manipulation and analysis with libraries like Pandas and NumPy.
+
+🌱 Currently learning more about machine learning and data storytelling!
+
+📫 Feel free to reach out for collaboration or discussions on data analytics!
 
 <!---
 Flo-wanjiku/Flo-wanjiku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
