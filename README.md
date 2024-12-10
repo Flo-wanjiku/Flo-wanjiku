@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Flo-wanjiku
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, R and SQL
-- 💞️ I’m looking to collaborate on Python, R and SQL projects
+- 👋 Hi, I’m Florence Wanjiku
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Python, Power BI and SQL
+- 💞️ I’m looking to collaborate on Python, Power BI and SQL projects
 - 📫 How to reach me florenswanjiku@gmail.com
 
 <!---
