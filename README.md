@@ -1,7 +1,7 @@
 👋 Hi there! I'm a Data Analyst with 3 years of experience in the field. I specialize in transforming data into actionable insights using various tools and technologies.
 
 🔍 **Skills**:
-- **Power BI**: Creating interactive dashboards and visualizations.
+- **Power BI, Looker, Tableau**: Creating interactive dashboards and visualizations.
 - **SQL**: Querying and managing databases to extract meaningful information.
 - **Excel**: Utilizing advanced functions and pivot tables for data analysis.
 - **Python**: Performing data manipulation and analysis with libraries like Pandas and NumPy.
