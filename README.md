@@ -6,7 +6,7 @@
 - **Excel**: Utilizing advanced functions and pivot tables for data analysis.
 - **Python**: Performing data manipulation and analysis with libraries like Pandas and NumPy.
 
-🌱 Currently learning more about machine learning and data storytelling!
+🌱 Currently learning more about visualizations and data storytelling!
 
 📫 Feel free to reach out for collaboration or discussions on data analytics!
 
