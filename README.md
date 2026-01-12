@@ -1,4 +1,4 @@
-👋 Hi there! I'm a Data Analyst with 1 year of experience in the field. I specialize in transforming data into actionable insights using various tools and technologies.
+👋 Hi there! I'm a Data Analyst with 3 years of experience in the field. I specialize in transforming data into actionable insights using various tools and technologies.
 
 🔍 **Skills**:
 - **Power BI**: Creating interactive dashboards and visualizations.
